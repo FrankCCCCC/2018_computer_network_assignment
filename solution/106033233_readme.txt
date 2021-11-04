@@ -1,0 +1,9 @@
+Input
+"read": Mean to request article list. Then input the index of the article you want to read.
+"upload": Mean to request uploading file as article. Then input the whole file name you want to upload.
+
+Server File and Data
+The server need an "article.txt" file as index file which is at the same directory with 106033233_ser.c
+The content of each article are at each "title.txt", the title is the same as the file name. All data would be putted in "article" folder.
+
+NOTICE: The user need to create "article" folder and "article.txt"(also write 0 in first line) when want to use the program.
